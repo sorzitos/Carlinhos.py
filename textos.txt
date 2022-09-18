@@ -1,0 +1,14 @@
+texts goes here.
+
+
+
+each line is a message.
+
+
+
+
+5 lines distance is highly recommend in cases of server with automod bots!
+
+
+
+
