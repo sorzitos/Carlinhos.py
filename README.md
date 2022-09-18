@@ -3,8 +3,8 @@
 <p align="center">
     <br />
     <br />
-<a href="https://github.com/sorzitos/carlinhos.py"><img src="https://img.shields.io/github/stars/sorzitos/carlinhos?color=orange&logo=github&style=flat-square"></a>
-	<a href="https://github.com/sorzitos/carlinhos.py/releases/tag/v1.1.1"><img src="https://img.shields.io/github/v/tag/sorzitos/ytfzf?style=flat-square"> </a>
+<a href="https://github.com/sorzitos/carlinhos.py"><img src="https://img.shields.io/github/stars/sorzitos/carlinhos.py?color=orange&logo=github&style=flat-square"></a>
+	<a href="https://github.com/sorzitos/carlinhos.py/releases/tag/v1.1.1"><img src="https://img.shields.io/github/v/tag/sorzitos/carlinhos.py?style=flat-square"> </a>
 	<a href="https://github.com/sorzitos/carlinhos.py/commits/master"><img src="https://img.shields.io/github/commit-activity/m/sorzitos/carlinhos.py?color=green&style=flat-square"></a>
 	<a href="https://discord.gg/c5gzcj4nYq"><img src="https://img.shields.io/discord/815609275644117022?color=yellow&logo=discord&style=flat-square" alt="Discord"></a>
     <br />
