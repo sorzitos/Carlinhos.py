@@ -17,6 +17,10 @@
     Showcase
 </h1>
 <p align="center">
+	
+
+![Image](https://user-images.githubusercontent.com/108033555/190923297-d6d1be6d-676a-4636-866d-fd873cb106b3.gif)
+
 <img src=.assets/teste.gif width="100%">
 </p>
 
