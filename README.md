@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/MadeInBrazil-🇧🇷-<COLOR>.svg)](https://shields.io/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![Image](https://user-images.githubusercontent.com/108033555/190883396-2dd78b9a-e2aa-4676-bba0-55fca6d38fcd.png)
 <p align="center">
-    <a> <img src=.assets/logo.png></a>
     <br />
     <br />
 <a href="https://github.com/sorzitos/carlinhos"><img src="https://img.shields.io/github/stars/sorzitos/carlinhos?color=orange&logo=github&style=flat-square"></a>
