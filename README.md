@@ -25,6 +25,7 @@
 One of my friends created a "bot" that would send messages using his account on the spam channel so he didnt have to, almost a year after that, I created my own version of it with a little help from my friend [SrLavor](https://github.com/SrLavor).
 
 ## **Installation**
-    git clone 
+    git clone https://github.com/sorzitos/Carlinhos.py
+Or alternatively, you can just download it from source.
 
 # PLEASE keep in mind this was made for fun's sake, if you use on a raid or something that's entirely your responsability.
