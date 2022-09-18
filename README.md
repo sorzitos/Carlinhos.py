@@ -22,7 +22,7 @@
 
 ## **Behind the project**
 **This little project started when me and my friends started a xp war on discord (Wild, I know)**
-One of my friends created a "bot" that would send messages using his account on the spam channel so he didnt have to, almost a year after that, I created my own version of it with a little help from my friend @SrLavor.
+One of my friends created a "bot" that would send messages using his account on the spam channel so he didnt have to, almost a year after that, I created my own version of it with a little help from my friend [SrLavor](https://github.com/SrLavor).
 
 ## **Installation**
     git clone 
